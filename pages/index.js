@@ -13,7 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome to my GameLearnAmharicAlphabet app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Keine Datenerfassung angegeben Der Entwickler gibt an, dass diese App keine Nutzerdaten erfasst
+          Keine Daten werden mit Drittunternehmen oder -organisationen geteilt
+          diese App Nutzerdaten nicht mit anderen Unternehmen oder Organisationen teilt
         </p>
       </main>
 
