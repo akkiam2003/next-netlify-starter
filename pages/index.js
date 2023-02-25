@@ -6,16 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Data protection !</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my GameLearnAmharicAlphabet app!" />
+        <Header title="Welcome to my app!" />
         <p className="description">
-          Keine Datenerfassung angegeben Der Entwickler gibt an, dass diese App keine Nutzerdaten erfasst
-    Wir benötigen den Zugriff auf den Standort Ihres Gerätes. Bei einer Anfrage erheben wir Ihren aktuellen Standort über GPS, um Ihnen schnell Informationen zu Ihrer unmittelbaren Umgebung geben zu können. Daten zu Ihrem Standort werden nur für die Bearbeitung Ihrer Anfrage genutzt. Die Übertragung Ihrer Standortdaten erfolgt über eine verschlüsselte Verbindung.
-    Ihre Standortdaten werden nach Beendigung Ihrer Anfrage anonymisiert und zur Verbesserung unseres Services statistisch ausgewertet.
+          The app does not collect any user data. No data is shared with third party companies or organizations. The app does not share user data with other companies or organizations.
         </p>
       </main>
 
