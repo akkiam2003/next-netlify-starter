@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Data protection:" />
         <p className="description">
           The app does not collect any user data.
     No data is shared with third party companies or organizations.
