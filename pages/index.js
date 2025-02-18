@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Data protection !</title>
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3268981658549651" crossorigin="anonymous"></script>
       </Head>
 
       <main>
