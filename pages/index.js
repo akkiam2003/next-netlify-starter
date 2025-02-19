@@ -19,7 +19,6 @@ export default function Home() {
           The app does not collect any user data.
     No data is shared with third party companies or organizations.
     The app does not share user data with other companies or organizations.
-    No data is shared with third party.
         </p>
       </main>
 
